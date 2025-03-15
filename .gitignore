@@ -18,6 +18,7 @@ public/
 *.swp
 .idea
 *.iml
+.vscode
 
 # Ignore file for editors like Helix
 .ignore
